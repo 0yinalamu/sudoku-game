@@ -1,0 +1,97 @@
+# Sudoku Game- NINE N DINE ENIGMA WILDMIND SWEETMIND FLYMIND
+
+I built this Sudoku game to challenge myself a bit and also because I'm obsessed with Sudoku.
+- not sure if I want this game to be scary or cutesy
+- ideas so far
+pincinc theme
+fairy and wild theme mushrooms etc
+
+![Screenshot of my Sudoku game](docs/design/screenshot.png)
+
+## What it does
+
+- [Feature - generate a new puzzle each time you play]
+- [Another feature - check your answers and highlight mistakes]
+- [Another feature, difficulty levels, timer, hints, notes mode]
+- []
+
+## How I built it
+
+I built this project using:
+
+- **React** for [what I used it for, e.g. the user interface]
+- **[Language, e.g. JavaScript]** for [what I used it for, e.g. the game logic]
+- **[Other tool, e.g. CSS / Vite / Git and GitHub]** for [what I used it for]
+
+## Running game
+kjjmnb 
+### What you need first
+
+- [Node.js](https://nodejs.org/) installed on your computer
+
+### Installing it
+
+I clone the project and install what it needs:
+
+```powershell
+git clone https://github.com/OyinAlamu/sudoku-game.git
+cd sudoku-game
+npm install
+```
+
+### Starting it
+
+```powershell
+npm run dev
+```
+
+
+## How to play
+
+1. [Step 1, e.g. "I choose a difficulty."]
+2. [Step 2, e.g. "I click a square and type a number from 1 to 9."]
+3. [Step 3, e.g. "I check my answers when I'm finished."]
+
+[Add a sentence on the rules: every row, column and 3×3 box must contain the numbers 1 to 9 once.]
+
+## How I organise my project or plan to
+
+```text
+sudoku-game/
+├── docs/            # My notes, designs and planning
+│   ├── instructions/
+│   ├── design/
+│   ├── research/
+│   ├── planning/
+│   └── architecture/
+├── [src/]
+├── README.md
+└── LICENSE
+```
+
+My PowerShell and GitHub notes are in [`docs/instructions`](docs/instructions).
+
+## How I test my game
+
+[I tested my puzzle checker with solved puzzles, puzzles with mistakes and empty boards]
+
+## What I learned
+
+- [I learned how to use Git and GitHub to save and share my work]
+- [I learned how to build an interface with React]
+- [I learned how to break a big problem, like checking a Sudoku board, into smaller steps]
+- [Add one more thing]
+
+## What I want to add next
+
+- [ ] [Idea, e.g. add a timer]
+- [ ] [Idea, e.g. add hints]
+- [ ] [Idea, e.g. write automated tests]
+
+## Licence
+
+I've shared this project under the  MIT licence. See the `LICENSE` file.
+
+## Contact
+
+[oyin alamu] · [oyinalamu@outlook.com]
